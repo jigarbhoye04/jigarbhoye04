@@ -1,6 +1,6 @@
 <!--
 <h2 align="center">
-  Welcome to Al Siam World!
+  Welcome to Jigar's World!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 -->
@@ -29,7 +29,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
+    <a href="https://www.google.com/search?q=jigarbhoye">「 Google Me 」</a>
     <br>
     「 I am a 3rd year student at Nirma University 」
     <br>
