@@ -30,8 +30,8 @@
   </a>
 </p>
 <hr/>
-<br/>
 
+<!--
 <p align="center">
   <a href="https://github.com/jigarbhoye04">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jigarbhoye04&theme=vue-dark&border=61dafb&background=0d1117" alt="Jigar Bhoye's GitHub streak"/>
@@ -55,7 +55,7 @@
 
 ![Jigar Bhoye's Graph](https://github-readme-activity-graph.vercel.app/graph?username=jigarbhoye04&custom_title=Jigar%20Bhoye's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area_color=58a6ff&title_color=ffffff&area=true)
 
-
+-->
 ### Socials:
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jigar-bhoye-188667251/)
