@@ -1,5 +1,5 @@
 <h3 align="left">Hi 👋, I am <a href="https://linkedin.com/in/jigar-bhoye-188667251/" target="blank">Jigar Bhoye</a></h3>
-<h4 align="left">passionate about artificial intelligence, programming concepts, math, physics and robotics in general.</h4>
+<h4 align="left">more into artificial intelligence, math, physics and robotics.</h4>
 
 <!--
 - 🔭 I’m currently working on **[Your Project]**
