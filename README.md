@@ -3,11 +3,11 @@
 
 <!--
 - 🔭 I’m currently working on **[Your Project]**
--->
 - 🌱 I’m currently learning Web Dev & DSA
-- 📫 Reach me jigarbhoye04@gmail.com
+-->
+📫 Reach me at jigarbhoye04@gmail.com
 
-<h4 align="left">Languages and Tools</h4>
+<h5 align="left">i'm fluent in..</h5>
 <p style="margin-bottom: 20px;">
   <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" />
   <img src="https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc" />
@@ -24,6 +24,7 @@
 <!--   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> -->
 </p>
 
+<h5 align="left">check out</h5>
 <p align="left">
   <a href="https://github.com/jigarbhoye04?tab=repositories" target="_blank">
     <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2982FF?style=for-the-badge&logo=koding&logoColor=gray"/>
@@ -56,7 +57,7 @@
 ![Jigar Bhoye's Graph](https://github-readme-activity-graph.vercel.app/graph?username=jigarbhoye04&custom_title=Jigar%20Bhoye's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area_color=58a6ff&title_color=ffffff&area=true)
 
 -->
-### Socials:
+##### Socials:
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jigar-bhoye-188667251/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jigarbhoye04)
