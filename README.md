@@ -1,4 +1,4 @@
-<h3 align="left">yo 👋, i’m <a href="https://linkedin.com/in/jigar-bhoye-188667251/" target="_blank">jigar bhoye</a></h3>
+<h3 align="left">yo 👋, i’m <a href="https://linkedin.com/in/jigar-bhoye-188667251/" target="_blank">jigar</a></h3>
 <h4 align="left">engineer. building cool things with ai, code, math, and a lil chaos.</h4>
 
 📬 mail me → jigarbhoye04@gmail.com
