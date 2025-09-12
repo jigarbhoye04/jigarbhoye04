@@ -1,5 +1,11 @@
-<h3 align="left">yo 👋, i’m <a href="https://linkedin.com/in/jigar-bhoye-188667251/" target="_blank">jigar</a></h3>
+<h3 align="left">
+  yo 👋, i’m 
+  <a href="https://www.linkedin.com/in/jigarbhoye/" target="_blank">jigar</a>
+</h3>
+
 <h4 align="left">engineer. building cool things with ai, code, math, and a lil chaos.</h4>
+
+<img align="right" alt="i'm batman" width="250" src="https://github.com/user-attachments/assets/dfba8a8b-fe1b-4401-9dc8-9c2098e04000" />
 
 📬 mail me → jigarbhoye04@gmail.com
 
@@ -30,7 +36,7 @@
 <h4>👾 socials</h4>
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jigarbhoye04)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jigar-bhoye-188667251/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jigarbhoye/)
 
 ---
 
