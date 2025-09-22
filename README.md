@@ -1,5 +1,5 @@
 <h3 align="left">
-  yo 👋, i’m 
+  yo , i’m 
   <a href="https://www.linkedin.com/in/jigarbhoye/" target="_blank">jigar</a>
 </h3>
 
@@ -26,10 +26,10 @@
 
 <h5>interests</h5>
 <ul>
-  <li>🧠 artificial intelligence (and all the math behind it)</li>
-  <li>📡 robotics, physics sims, control systems</li>
-  <li>🌐 building fullstack apps that don’t crash 😤</li>
-  <li>💭 curious about everything. always shipping. always learning.</li>
+  <li>artificial intelligence (and all the math behind it)</li>
+  <li>robotics, physics sims, control systems</li>
+  <li>building fullstack apps that don’t crash 😤</li>
+  <li>curious about everything. always shipping. always learning.</li>
 </ul>
 
 
@@ -40,8 +40,9 @@
 
 ---
 
-> “Allow yourself to shine without the desire to be seen.”  
-> – somebody (real quote. real impact.)
+> “Allow yourself to shine without the desire to be seen.”
+
+– somebody (real quote. real impact.)
 
 <!-- psst. you scrolled too far. you're a real one. -->
 
